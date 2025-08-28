@@ -98,12 +98,7 @@ Visit: [http://localhost:8000/docs](http://localhost:8000/docs)
 }
 ```
 
----
-
-## 📽️ Demo Video
-👉 [Video Link Here](YOUR_VIDEO_LINK)
-
----
+--- 
 
 ## 📦 Tech Stack
 - FastAPI (Python)
